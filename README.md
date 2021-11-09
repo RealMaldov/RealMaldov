@@ -1,5 +1,5 @@
 ###  Alejandro Maldi Vázquez
-#### (Gamer🕹, otaku🈴, cientifico de computación🧪, amante bandido🌹)
+#### (Gamer🕹, otaku🈴, cientifico en computación🧪, amante bandido🌹)
 ![(Gamer, otaku, cientifico en computación, amante bandido)](https://c.tenor.com/o7EtqUlPN6IAAAAC/luigi-dance.gif)
 
 Mi perfil de github para subir trabajos horribles a mis buenos" profesores y ayudantes en la carrea
