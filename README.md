@@ -11,8 +11,12 @@ Skills: Págame lo suficiente y hare lo que sea
 - 👯 Quiero colaborar con los trabajdores en MIHOYO
 - 🤔 quiero ayuda con mi carrera jaja
 - 💬 Preguntame lo que quieras de anime 
-- 📫 How to reach me:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Alejandro Maldonado Vázquez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/real_maldo/)  
+- 📫 How to reach me: 
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alejandro.maldo.vazquez/)  
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/real_maldo/)  
 - ⚡ Fun fact: El agua esta compuesta mayormente de H20 entre otros famosos elementos.
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RealMaldov)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMaldov&show_icons=true)  
