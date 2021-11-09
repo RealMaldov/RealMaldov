@@ -8,8 +8,7 @@ Skills: Págame lo suficiente y hare lo que sea
 
 - 🔭 Trabajo para algun día crear una waifu virtual
 - 🌱 Estoy aprendiendo a vivir la vida
-- 👯 Quiero colaborar con los trabajdores en MIHOYO
-- [<img src='https://media.giphy.com/media/y9LfwvqpUrjGV0QEs3/giphy-downsized-large.gif' alt='gif' height='40'>]
+- 👯 Quiero colaborar con los trabajdores en MIHOYO [<img src='https://media.giphy.com/media/y9LfwvqpUrjGV0QEs3/giphy-downsized-large.gif' alt='gif' height='40'>]
 - 🤔 quiero ayuda con mi carrera jaja
 - 💬 Preguntame lo que quieras de anime 
 - 📫 How to reach me: 
