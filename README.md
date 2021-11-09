@@ -1,9 +1,10 @@
-### A. Maldi (Gamer, otaku, cientifico de computación, amante bandido)
+### Hi there 👋, A. Maldi 
+#### (Gamer, otaku, cientifico de computación, amante bandido)
+![(Gamer, otaku, cientifico de computación, amante bandido)]
 
-<!--
-**RealMaldov/RealMaldov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi perfil de github para subir trabajos horribles a mis buenos" profesores y ayudantes en la carrea
 
-Here are some ideas to get you started:
+Skills: Págame lo suficiente y hare lo que sea
 
 - 🔭 Trabajo para algun día crear una waifu virtual
 - 🌱 Estoy aprendiendo a vivir la vida
@@ -12,4 +13,7 @@ Here are some ideas to get you started:
 - 💬 Preguntame lo que quieras de anime 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: El agua esta compuesta mayormente de H20 entre otros famosos elementos.
--->
+
+
+
+
