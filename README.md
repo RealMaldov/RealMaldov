@@ -8,7 +8,7 @@ Skills: Principalmente sistemas en python y páginas de html.
 
 - 🔭 Trabajo para algun día crear una waifu virtual
 - 🌱 Estoy aprendiendo a vivir la vida
-- 👯 Quiero colaborar con los trabajdores en MIHOYO
+- 👯 Quiero colaborar con los trabajadores en MIHOYO
  - 🤔 quiero ayuda con mi carrera jaja
 - 💬 Preguntame lo que quieras de anime 
 - 📫 How to reach me: 
