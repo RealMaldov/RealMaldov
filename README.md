@@ -1,10 +1,10 @@
 ###  Alejandro Maldonado Vázquez
-#### (Gamer🕹, otaku🈴, científico en computación🧪, amante bandido🌹)
-![(Gamer, otaku, cientifico en computación, amante bandido)](https://c.tenor.com/o7EtqUlPN6IAAAAC/luigi-dance.gif)
+#### (Gamer🕹, otaku🈴, científico en computación🧪)
+![(Gamer, otaku, cientifico en computación)](https://c.tenor.com/o7EtqUlPN6IAAAAC/luigi-dance.gif)
 
-Mi perfil de github para subir trabajos horribles a mis "buenos" profesores y ayudantes en la carrera
+Mi perfil de github para subir trabajos/proyectos de la facultad o personales.
 
-Skills: Págame lo suficiente y haré lo que sea
+Skills: Principalmente sistemas en python y páginas de html.
 
 - 🔭 Trabajo para algun día crear una waifu virtual
 - 🌱 Estoy aprendiendo a vivir la vida
