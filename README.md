@@ -6,10 +6,10 @@ Mi perfil de github para subir trabajos/proyectos de la facultad o personales.
 
 Skills: Principalmente sistemas en python y páginas de html.
 
-- 🔭 Trabajo para algun día crear una waifu virtual
-- 🌱 Estoy aprendiendo a vivir la vida
+- 🔭 Trabajo para algun día crear un videojuego
+- 🌱 Estoy aprendiendo a hacer tesis
 - 👯 Quiero colaborar con los trabajadores en MIHOYO
- - 🤔 quiero ayuda con mi carrera jaja
+ - 🤔 ocupo ayuda con ecuaciones diferenciales
 - 💬 Preguntame lo que quieras de anime 
 - 📫 How to reach me: 
 - [<img src='https://toppng.com/uploads/preview/facebook-pink-logo-png-square-11536002404ooo3hkzded.png' alt='facebook' height='40'>](https://www.facebook.com/alejandro.maldo.vazquez/)  
