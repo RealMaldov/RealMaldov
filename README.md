@@ -1,13 +1,12 @@
 ###  Alejandro Maldonado Vázquez
-#### (Gamer🕹, otaku🈴, científico en computación🧪)
-![(Gamer, otaku, cientifico en computación)](https://c.tenor.com/o7EtqUlPN6IAAAAC/luigi-dance.gif)
+#### (científico en computación🧪)
 
 Mi perfil de github para subir trabajos/proyectos de la facultad o personales.
 
 Skills: Principalmente sistemas en python y páginas de html.
 
 - 🔭 Trabajo para algun día crear un videojuego
-- 🌱 Estoy aprendiendo a hacer tesis
+- 🌱 Estoy aprendiendo a hacer una tesis
 - 👯 Quiero colaborar con los trabajadores en MIHOYO
  - 🤔 ocupo ayuda con ecuaciones diferenciales
 - 💬 Preguntame lo que quieras de anime 
